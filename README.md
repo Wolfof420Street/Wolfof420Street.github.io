@@ -1,30 +1,29 @@
 # Wolfof420Street.github.io
-roject Title
+##Project Title
 Portfolio landing page
 This is a brief portfolio about me and the work I do
 
-Getting Started
+##Getting Started
 Click  the link to my Portfolio page
 
-requisites
+##requisites
 Web Browser
 
 Chrome, Mozilla, Tor
 
-Installing
+##Installing
 No Installation Required
 
 
-Built With
+##Built With
 HTML
 CSS
 Atom
 
-Authors
+##Authors
 Bill Odida
 
-License
+##License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-Acknowledgments
-Moringa School Staff
+##Acknowledgments

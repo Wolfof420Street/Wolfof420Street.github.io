@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  font-family: 'Aguafina Script';font-size: 69px;
+  color: white ;
+}
+.jumbotron{
+  background-image: url(https://i.pinimg.com/236x/cd/89/d3/cd89d3b67502663a96d3c3a27da094af.jpg);
+
+}
+#Home {
+  border: solid;
+  width: auto;
+  height: 420px;
+  background-image: url(https://cdn.wonderfulengineering.com/wp-content/uploads/2014/07/Hi-Tech-Wallpaper-20.jpg);
+  padding: 69px ;
+  margin: auto;
+  }
+body{
+  background-color: : #979A9A;
+  background-image: url(https://i.pinimg.com/236x/b1/7d/98/b17d98f8a82cf8f358a486d717ae4628--wolf-drawings-animal-drawings.jpg);
+}
+p {
+  color: white;
+  }
+li {
+  color: white;
+}
